@@ -1,0 +1,48 @@
+{
+  "category": "ENTITY_SPIRIT",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/nang-kwak",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "nang-kwak",
+    "name": "Nang Kwak",
+    "aliases": [
+      {
+        "name": "Mae Nang Kwak"
+      },
+      {
+        "name": "Lady Kwak"
+      },
+      {
+        "name": "Beckoning Lady"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Fortune goddess",
+    "tags": [
+      "spirit",
+      "entity",
+      "folklore",
+      "supernatural"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Thai spirit goddess who beckons customers and brings prosperity to merchants",
+      "full": "Thai spirit goddess who beckons customers and brings prosperity to merchants"
+    }
+  }
+}
