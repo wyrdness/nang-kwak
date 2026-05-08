@@ -1,321 +1,119 @@
 # Nang Kwak
 
-> *"Ancient spirits walk among us"*
+> A benevolent female household deity of Thai folk religion, regarded as the patron of merchants and a bringer of customers and prosperity. Depicted as a beautiful woman in red Thai dress, kneeling, with her right hand raised in a beckoning gesture.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-ENTITY SPIRIT-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `nang-kwak` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Fortune goddess |
-| **Primary Region** | Thailand |
-| **Cultural Origin** | Thai |
-| **Status** | Documented |
+| **Subcategory** | Thai household and merchant deity |
+| **Primary range** | Veneration is centered in Thailand and extends to ethnic-Thai and Chinese-Thai communities across Southeast Asia, with documented presence in Hong Kong |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Thai spirit goddess who beckons customers and brings prosperity to merchants
-
-This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.
+Nang Kwak (Thai: นางกวัก, literally 'Lady of Beckoning') is a Thai folk deity venerated as the patron of merchants and as a household bringer of fortune, customers, and wealth. She is iconographically depicted as a beautiful young woman, typically wearing a red Thai dress and a golden crown, sitting or kneeling in the traditional Thai posture. Her right hand is raised in the Thai gesture of beckoning a customer — palm curved and pointing downward — and her left hand either rests at her side or holds a bag of gold near her lap. Statuettes, amulets, and yantra cloths (pha yant) bearing her image appear in nearly every Thai shop, restaurant, and market stall, and her cult has spread to ethnic-Thai and Chinese-Thai businesses across Southeast Asia and as far as Hong Kong. Two principal origin stories are told: a Buddhist legend in which she is identified with Nang Supawadee, a merchant's daughter who becomes a lay Buddhist and is blessed for her devotion, and a tradition linking her to the Thai Ramakien (Ramayana), positioning her as a daughter of Pu Chao Khao Khiao. She is closely associated and sometimes compared with the rice goddess Mae Phosop and the Hindu goddess Lakshmi, and is iconographically convergent with the Japanese maneki-neko (beckoning cat).
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| นางกวัก | Thai | Lady of Beckoning |
+| Mae Nang Kwak | Thai | Mother / Lady Nang Kwak |
+| Nang Supawadee | Thai | name in the Buddhist origin legend |
 
-### Primary Name
-- **Nang Kwak** — Thailand
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Mae Nang Kwak | Thailand | Traditional name |
-| Lady Kwak | Thailand | Traditional name |
-| Beckoning Lady | Thailand | Traditional name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Fortune goddess
-└── Origin: Thai
-```
+- **Origin**: Thai นาง (nang, 'lady') + กวัก (kwak, 'to beckon' in the Thai gesture).
+- **Meaning**: Literally 'Lady of Beckoning'.
+- **First use**: The figure is well-attested in modern Thai folk religion; the precise date of textual emergence is uncertain.
 
 ---
-
-## Characteristics
-
-### Description
-
-Thai spirit goddess who beckons customers and brings prosperity to merchants
-
-### Cultural Significance
-
-This entity holds significant meaning within Thai culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Thailand
-
-The phenomenon is primarily reported in Thailand, with strongest traditions in Thai communities.
-
-### Cultural Context
-
-- **Origin Culture:** Thai
-- **Geographic Focus:** Thailand
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Nang Kwak originates from Thai tradition in Thailand. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Nang Kwak features prominently in Thai folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Thailand, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Thai belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Thai tradition, the Nang Kwak represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Thai culture, the Nang Kwak:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Nang Kwak phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
-
-- [Pontianak](/pontianak) - Southeast Asian vampire ghost
-- [Hantu Raya](/hantu-raya) - Malay demon spirit
-- [La Llorona](/la-llorona) - Weeping woman spirit
+- [Mae Phosop](../mae-phosop/) — _related_: Thai rice goddess, also a feminine prosperity figure
+- [Lakshmi](../lakshmi/) — _similar_: Hindu goddess of wealth and fortune
+- [Maneki-neko](../maneki-neko/) — _counterpart_: Japanese beckoning cat, iconographically convergent
 
 ---
+## Physical Description
 
-## Sources & Further Reading
+- **Coloration**: red (dress), gold (crown, ornaments)
+- **Morphology**: Iconographic figure represented in figurines, paintings, yantra cloths (pha yant), and amulets.
 
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
+### Features
 
-### Recommended Starting Points
+| Feature | Description | Frequency |
+|---|---|---|
+| Red Thai dress | Typically depicted in a red traditional Thai dress | always |
+| Golden crown | Wears a Thai-style golden crown or headdress | common |
+| Right hand raised in Thai beckoning gesture | Right hand raised, palm curved and pointing downward in the Thai customer-summoning gesture | always |
+| Bag of gold | Left hand often holds a small bag of gold or money near the lap | common |
+| Seated or kneeling posture | Almost always shown sitting or kneeling rather than standing | always |
 
-- Academic studies of Thai folklore
-- Anthropological surveys of Thailand
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+## Reported Abilities
 
----
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Attracts customers | Believed to draw paying customers into shops and businesses | always | folklore |
+| Confers prosperity | Brings wealth, good fortune, and business success | always | folklore |
+| Provides protection of merit | In some narratives, her blessing rewards Buddhist devotion and merit-making | common | folklore |
 
-## Contribution Guidelines
+## Behavior
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
-
-### How to Contribute
-
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
-
-### Standards
-
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+- **Activity**: variable
+- **Disposition**: passive
+- **Social structure**: solitary
+- **Habitat**: shops, homes, market stalls, restaurants, shrines
 
 ---
+## Distribution
 
+Veneration is centered in Thailand and extends to ethnic-Thai and Chinese-Thai communities across Southeast Asia, with documented presence in Hong Kong.
+
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Buddhist devotional account** _(Thai Buddhist folk tradition)_
+
+Identifies Nang Kwak with Nang Supawadee, a merchant's daughter who, after hearing a sermon, became a devout lay Buddhist and was blessed with success in trade.
+
+**Ramakien-derived account** _(Thai folk tradition)_
+
+Alternative narrative that links her to the Thai Ramayana (Ramakien), positioning her as a daughter of Pu Chao Khao Khiao who confers wealth through merit.
+
+
+## Popular Culture
+
+
+**Other**: Statuettes, pha yant cloth posters, and amulets in shops across Thailand and the Thai diaspora; Iconographic comparison with the Japanese maneki-neko
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "nang-kwak",
-  "name": "Nang Kwak",
-  "category": "ENTITY_SPIRIT",
-  "region": "Thailand",
-  "culture": "Thai",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Nang Kwak phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

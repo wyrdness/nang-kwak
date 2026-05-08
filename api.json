@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/nang-kwak",
     "maintainers": [
       {
@@ -16,72 +16,113 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "nang-kwak",
     "name": "Nang Kwak",
-    "aliases": [],
+    "aliases": [
+      { "name": "นางกวัก", "language": "Thai", "meaning": "Lady of Beckoning" },
+      { "name": "Mae Nang Kwak", "language": "Thai", "meaning": "Mother / Lady Nang Kwak" },
+      { "name": "Nang Supawadee", "language": "Thai", "meaning": "name in the Buddhist origin legend" }
+    ],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Fortune goddess",
+    "subcategory": "Thai household and merchant deity",
     "tags": [
-      "folklore",
-      "mythology"
+      "thailand",
+      "deity",
+      "fortune",
+      "merchant",
+      "buddhist",
+      "household",
+      "amulet",
+      "southeast-asia"
     ],
     "status": "documented",
     "description": {
-      "summary": "Thai spirit goddess who beckons customers and brings prosperity to merchants This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-      "full": "Thai spirit goddess who beckons customers and brings prosperity to merchants This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations."
+      "summary": "A benevolent female household deity of Thai folk religion, regarded as the patron of merchants and a bringer of customers and prosperity. Depicted as a beautiful woman in red Thai dress, kneeling, with her right hand raised in a beckoning gesture.",
+      "full": "Nang Kwak (Thai: นางกวัก, literally 'Lady of Beckoning') is a Thai folk deity venerated as the patron of merchants and as a household bringer of fortune, customers, and wealth. She is iconographically depicted as a beautiful young woman, typically wearing a red Thai dress and a golden crown, sitting or kneeling in the traditional Thai posture. Her right hand is raised in the Thai gesture of beckoning a customer — palm curved and pointing downward — and her left hand either rests at her side or holds a bag of gold near her lap. Statuettes, amulets, and yantra cloths (pha yant) bearing her image appear in nearly every Thai shop, restaurant, and market stall, and her cult has spread to ethnic-Thai and Chinese-Thai businesses across Southeast Asia and as far as Hong Kong. Two principal origin stories are told: a Buddhist legend in which she is identified with Nang Supawadee, a merchant's daughter who becomes a lay Buddhist and is blessed for her devotion, and a tradition linking her to the Thai Ramakien (Ramayana), positioning her as a daughter of Pu Chao Khao Khiao. She is closely associated and sometimes compared with the rice goddess Mae Phosop and the Hindu goddess Lakshmi, and is iconographically convergent with the Japanese maneki-neko (beckoning cat)."
     },
     "etymology": {
-      "origin": "| Thai |",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Thai นาง (nang, 'lady') + กวัก (kwak, 'to beckon' in the Thai gesture).",
+      "meaning": "Literally 'Lady of Beckoning'.",
+      "first_use": "The figure is well-attested in modern Thai folk religion; the precise date of textual emergence is uncertain."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Fortune goddess",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Folk deity",
+      "subtype": "Patron of merchants / household goddess",
+      "variant": "Thai"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "mae-phosop", "name": "Mae Phosop", "relationship": "related", "description": "Thai rice goddess, also a feminine prosperity figure" },
+      { "id": "lakshmi", "name": "Lakshmi", "relationship": "similar", "description": "Hindu goddess of wealth and fortune" },
+      { "id": "maneki-neko", "name": "Maneki-neko", "relationship": "counterpart", "description": "Japanese beckoning cat, iconographically convergent" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "coloration": ["red (dress)", "gold (crown, ornaments)"],
+      "features": [
+        { "feature": "Red Thai dress", "description": "Typically depicted in a red traditional Thai dress", "frequency": "always" },
+        { "feature": "Golden crown", "description": "Wears a Thai-style golden crown or headdress", "frequency": "common" },
+        { "feature": "Right hand raised in Thai beckoning gesture", "description": "Right hand raised, palm curved and pointing downward in the Thai customer-summoning gesture", "frequency": "always" },
+        { "feature": "Bag of gold", "description": "Left hand often holds a small bag of gold or money near the lap", "frequency": "common" },
+        { "feature": "Seated or kneeling posture", "description": "Almost always shown sitting or kneeling rather than standing", "frequency": "always" }
+      ],
+      "morphology": "Iconographic figure represented in figurines, paintings, yantra cloths (pha yant), and amulets."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Attracts customers", "description": "Believed to draw paying customers into shops and businesses", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Confers prosperity", "description": "Brings wealth, good fortune, and business success", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Provides protection of merit", "description": "In some narratives, her blessing rewards Buddhist devotion and merit-making", "frequency": "common", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "passive",
+      "social_structure": "solitary",
+      "habitat_preference": ["shops", "homes", "market stalls", "restaurants", "shrines"],
+      "patterns": [
+        "Veneration at the start of business operations",
+        "Display of statuettes near shop entrances or cash registers",
+        "Use of pha yant (yantra cloth) and amulets bearing her image"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "| Thai |",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Veneration is centered in Thailand and extends to ethnic-Thai and Chinese-Thai communities across Southeast Asia, with documented presence in Hong Kong.",
+      "continents": ["Asia"],
+      "countries": ["Thailand", "Laos", "Cambodia", "Malaysia", "Singapore", "Hong Kong"],
+      "regions": [
+        "Mainland Southeast Asia",
+        "Thai diaspora communities"
+      ]
     },
     "hotspots": [],
     "temporal": {
       "first_recorded": {
         "date": "Unknown",
         "circa": true,
-        "source": "Traditional folklore"
+        "source": "Modern Thai folk religion; precise textual emergence uncertain"
       }
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "| Thai |",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Thai folk religion blending Theravada Buddhist devotion, Hindu-derived goddess motifs, and indigenous beckoning iconography.",
+      "earliest_accounts": "The figure is well-attested in modern Thai folk practice; written origin legends include a Buddhist story identifying her with Nang Supawadee, daughter of merchants Sujidtaprahma and Sumanta, and a tradition linking her to the Thai Ramakien.",
+      "folklore_connections": "Closely related to the Thai rice goddess Mae Phosop and to the Hindu Lakshmi; iconographically convergent with the Japanese maneki-neko."
     },
-    "timeline": []
+    "timeline": [],
+    "modern_era": "Nang Kwak imagery is virtually ubiquitous in Thai commerce: figurines and pha yant cloth posters appear in shops, restaurants, taxis, and markets across Thailand and Thai diaspora communities, and amulets bearing her image are sold by temples and at amulet markets."
   },
+
   "sightings": {
     "statistics": {
       "total_documented": 0,
@@ -92,6 +133,7 @@
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
@@ -99,28 +141,64 @@
     "audio": [],
     "trace": []
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Buddhist devotional account",
+        "description": "Identifies Nang Kwak with Nang Supawadee, a merchant's daughter who, after hearing a sermon, became a devout lay Buddhist and was blessed with success in trade.",
+        "proponents": ["Thai Buddhist folk tradition"],
+        "evidence_cited": ["Recounted in popular Thai religious literature"]
+      },
+      {
+        "name": "Ramakien-derived account",
+        "description": "Alternative narrative that links her to the Thai Ramayana (Ramakien), positioning her as a daughter of Pu Chao Khao Khiao who confers wealth through merit.",
+        "proponents": ["Thai folk tradition"],
+        "evidence_cited": ["Connections to the Thai Ramakien epic cycle"]
+      }
+    ],
     "scientific": [],
     "skeptical": []
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Thai household and merchant veneration",
+        "Use of Nang Kwak pha yant (yantra cloth) and amulets",
+        "Display of figurines in shops and businesses"
+      ],
+      "stories": [
+        "Nang Supawadee, the merchant's daughter blessed for her Buddhist devotion",
+        "Daughter of Pu Chao Khao Khiao in the Ramakien-related variant"
+      ],
+      "beliefs": "Nang Kwak is treated as a present and effective patron of merchants, called upon at the opening of businesses and venerated daily in Thai shops."
     },
     "popular_culture": {
       "literature": [],
       "film_tv": [],
       "games": [],
-      "other": []
+      "other": [
+        "Statuettes, pha yant cloth posters, and amulets in shops across Thailand and the Thai diaspora",
+        "Iconographic comparison with the Japanese maneki-neko"
+      ]
     }
   },
+
   "research": {
     "researchers": [],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Studied within Thai folk-religion and Buddhist studies."
   },
-  "sources": []
+
+  "sources": [
+    {
+      "id": "wikipedia-nang-kwak",
+      "type": "website",
+      "title": "Nang Kwak",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nang_Kwak",
+      "accessed": "2026-05-07"
+    }
+  ]
 }
